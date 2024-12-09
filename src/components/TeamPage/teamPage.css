@@ -1,0 +1,20 @@
+a:hover .social-icon{
+    color:#fff !important
+}
+
+.team-card .social-icons{
+    left: -100%;
+    top:16px;
+    visibility: hidden;
+
+}
+
+.team-card:hover .social-icons{
+    left: 16px;
+    top:16px;
+    visibility: visible;
+}
+
+.team-contact button {
+    width: 200px;
+}

@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "username": "marvin",
+        "photo": "https://optechanimation1.netlify.app/assets/images/team/team1.png",
+        "name": "Marvin McKinney",
+        "designation": "CEO & Founder",
+        "social": {
+            "linkedIn": "/",
+            "twitter": "/",
+            "instagram": "/",
+            "facebook": "/"
+        },
+        "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+        "phone": "123",
+        "email": "name@email.com"
+    },
+    {
+        "id": 2,
+        "username": "sophia",
+        "photo": "https://optechanimation1.netlify.app/assets/images/team/team2.png",
+        "name": "Sophia Rodriguez",
+        "designation": "Creative Director",
+        "social": {
+            "linkedIn": "/",
+            "twitter": "/",
+            "facebook": "/"
+        },
+        "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+        "phone": "123",
+        "email": "name@email.com"
+    },
+    {
+        "id": 3,
+        "username": "marvin2",
+        "photo": "https://optechanimation1.netlify.app/assets/images/team/team3.png",
+        "name": "Marvin McKinney 2",
+        "designation": "Creative Director",
+        "social": {
+            "linkedIn": "/",
+            "twitter": "/",
+            "instagram": "/",
+            "facebook": "/"
+        },
+        "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+        "phone": "123",
+        "email": "name@email.com"
+    },
+    {
+        "id": 4,
+        "username": "alexander",
+        "photo": "https://optechanimation1.netlify.app/assets/images/team/team4.png",
+        "name": "Alexander Cameron",
+        "designation": "Product Designer",
+        "social": {
+            "linkedIn": "/",
+            "twitter": "/",
+            "instagram": "/",
+            "facebook": "/"
+        },
+        "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+        "phone": "123",
+        "email": "name@email.com"
+    }
+]

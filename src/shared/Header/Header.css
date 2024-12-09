@@ -1,0 +1,14 @@
+.active {
+  color: var(--primary);
+  background-color: transparent !important;
+}
+
+.main-menu a:hover {
+  color: var(--primary);
+  ;
+}
+
+.mobile-menu-bar .active {
+  background-color: transparent !important;
+  color: var(--primary) !important;
+}

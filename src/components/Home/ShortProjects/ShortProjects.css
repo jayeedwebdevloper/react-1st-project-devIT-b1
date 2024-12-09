@@ -1,0 +1,23 @@
+.project-card{
+    background-size: cover;
+}
+
+.project-card:hover{
+    background-size: 120%;
+}
+
+.project-card-details{
+    top: 100%;
+    bottom: -80%;
+}
+.project-card:hover .project-card-details{
+    
+    bottom: 0;
+    top: 0;
+}
+
+@media(min-width:1024px) {
+    .project-card{
+        background-size: 100%;
+    }
+}
